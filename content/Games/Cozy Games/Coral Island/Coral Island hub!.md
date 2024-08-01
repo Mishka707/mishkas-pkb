@@ -1,5 +1,5 @@
 ---
-title: Welcome to Coral Island!
+title: Coral Island Hub
 description: Mishka's Coral Island hub
 draft: false
 tags:
