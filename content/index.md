@@ -13,4 +13,4 @@ Right now we have:
 
 - Games
 	- Cozy Games
-		- [[Coral Island hub!]]
+		- [[Coral Island Hub!]]
