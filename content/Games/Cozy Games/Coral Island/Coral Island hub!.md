@@ -1,9 +1,8 @@
 ---
 title: Coral Island Hub
 description: Mishka's Coral Island hub
-draft: false
-tags:
-  - #CoralIsland
+draft: true
+tags: 
 date: 2024-08-01
 ---
 
