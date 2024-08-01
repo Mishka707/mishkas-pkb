@@ -1,6 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Mishka's Personal Knowledge Base
+description: This is a Mishka's personal knowledge base (PKB). It's kinda like my own lil wiki.
+draft: false
+tags:
+  - #homepage
+date: 2024-08-01
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to Mishka's Personal Knowledge Base!
