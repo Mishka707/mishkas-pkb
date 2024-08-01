@@ -8,3 +8,9 @@ date: 2024-08-01
 ---
 
 Welcome to Mishka's Personal Knowledge Base!
+
+Right now we have:
+
+- Games
+	- Cozy Games
+		- [[Welcome to our Coral Island hub!]]~
